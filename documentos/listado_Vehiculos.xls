@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+	<title>PVS</title>
+</head>
+
+ 
+<body>
+    <h2 style="text-align: left; font-family: inherit">Listado Vehículos</h2>
+     
+    <table style="border:solid">
+                <thead>
+                <tr>
+                 
+                <th>Marca</th>
+                <th>Modelo</th>
+                <th>Año</th>
+                <th>Color</th>
+                <th>Monto</th>
+                <th>Kilometraje</th>
+                <th>Estado</th>
+                
+              </tr>
+            </thead>
+            <tbody style="text-align:left">
+                
+                                
+	            <td> FIAT</td> 
+	            <td> MONDEO</td> 
+		    <td> 2015</td> 
+                    <td> blanco</td> 
+	            <td> 200000</td> 
+	            <td> 34000</td> 
+		    <td> DISPONIBLE</td>
+		    
+                  </tr>
+                        
+                              
+	            <td> FIAT</td> 
+	            <td> MONDEO</td> 
+		    <td> 2019</td> 
+                    <td> gris</td> 
+	            <td> 220000</td> 
+	            <td> 50000</td> 
+		    <td> DISPONIBLE</td>
+		    
+                  </tr>
+                        
+                              
+	            <td> FIAT</td> 
+	            <td> UNO</td> 
+		    <td> 2018</td> 
+                    <td> rojo</td> 
+	            <td> 150000</td> 
+	            <td> 16000</td> 
+		    <td> DISPONIBLE</td>
+		    
+                  </tr>
+                        
+                              
+	            <td> FIAT</td> 
+	            <td> UNO</td> 
+		    <td> 2020</td> 
+                    <td> negro</td> 
+	            <td> 190000</td> 
+	            <td> 19000</td> 
+		    <td> DISPONIBLE</td>
+		    
+                  </tr>
+                        
+                              
+	            <td> FORD</td> 
+	            <td> FIESTA</td> 
+		    <td> 2019</td> 
+                    <td> azul</td> 
+	            <td> 270000</td> 
+	            <td> 50000</td> 
+		    <td> DISPONIBLE</td>
+		    
+                  </tr>
+                        
+                              
+	            <td> FORD</td> 
+	            <td> FIESTA</td> 
+		    <td> 2018</td> 
+                    <td> cobre</td> 
+	            <td> 300000</td> 
+	            <td> 34000</td> 
+		    <td> DISPONIBLE</td>
+		    
+                  </tr>
+                        
+                              
+	            <td> FORD</td> 
+	            <td> KA</td> 
+		    <td> 2019</td> 
+                    <td> turquesa</td> 
+	            <td> 170000</td> 
+	            <td> 34000</td> 
+		    <td> DISPONIBLE</td>
+		    
+                  </tr>
+                        
+                              
+	            <td> FORD</td> 
+	            <td> KA</td> 
+		    <td> 2018</td> 
+                    <td> negro</td> 
+	            <td> 185000</td> 
+	            <td> 12000</td> 
+		    <td> DISPONIBLE</td>
+		    
+                  </tr>
+                        
+                              
+	            <td> GILERA</td> 
+	            <td> SMASH</td> 
+		    <td> 2016</td> 
+                    <td> azul</td> 
+	            <td> 35000</td> 
+	            <td> 34000</td> 
+		    <td> DISPONIBLE</td>
+		    
+                  </tr>
+                        
+                              
+	            <td> GILERA</td> 
+	            <td> SMASH</td> 
+		    <td> 2018</td> 
+                    <td> rojo</td> 
+	            <td> 27000</td> 
+	            <td> 50000</td> 
+		    <td> DISPONIBLE</td>
+		    
+                  </tr>
+                        
+                              
+	            <td> GILERA</td> 
+	            <td> SMASH</td> 
+		    <td> 2018</td> 
+                    <td> blanco</td> 
+	            <td> 125000</td> 
+	            <td> 12000</td> 
+		    <td> DISPONIBLE</td>
+		    
+                  </tr>
+                        
+                              
+	            <td> MOTOMEL</td> 
+	            <td> BLITZ</td> 
+		    <td> 2019</td> 
+                    <td> rojo</td> 
+	            <td> 25000</td> 
+	            <td> 34000</td> 
+		    <td> DISPONIBLE</td>
+		    
+                  </tr>
+                        
+                              
+	            <td> MOTOMEL</td> 
+	            <td> BLITZ</td> 
+		    <td> 2019</td> 
+                    <td> azul</td> 
+	            <td> 35000</td> 
+	            <td> 6778</td> 
+		    <td> DISPONIBLE</td>
+		    
+                  </tr>
+                        
+                              
+	            <td> MOTOMEL</td> 
+	            <td> BLITZ</td> 
+		    <td> 2016</td> 
+                    <td> negro</td> 
+	            <td> 20000</td> 
+	            <td> 50000</td> 
+		    <td> DISPONIBLE</td>
+		    
+                  </tr>
+                        
+                              
+	            <td> RENAULT</td> 
+	            <td> CLIO</td> 
+		    <td> 2019</td> 
+                    <td> rojo</td> 
+	            <td> 235000</td> 
+	            <td> 50000</td> 
+		    <td> DISPONIBLE</td>
+		    
+                  </tr>
+                        
+                              
+	            <td> RENAULT</td> 
+	            <td> CLIO</td> 
+		    <td> 2016</td> 
+                    <td> naranja</td> 
+	            <td> 245000</td> 
+	            <td> 38000</td> 
+		    <td> DISPONIBLE</td>
+		    
+                  </tr>
+                        
+                              
+	            <td> RENAULT</td> 
+	            <td> SCENIC</td> 
+		    <td> 2012</td> 
+                    <td> bordÃ³</td> 
+	            <td> 200000</td> 
+	            <td> 19000</td> 
+		    <td> DISPONIBLE</td>
+		    
+                  </tr>
+                        
+                              
+	            <td> RENAULT</td> 
+	            <td> SCENIC</td> 
+		    <td> 2019</td> 
+                    <td> azul</td> 
+	            <td> 185000</td> 
+	            <td> 36000</td> 
+		    <td> DISPONIBLE</td>
+		    
+                  </tr>
+                        
+                              
+	            <td> VOLKSWAGEN</td> 
+	            <td> GOL</td> 
+		    <td> 2018</td> 
+                    <td> negro</td> 
+	            <td> 110000</td> 
+	            <td> 12000</td> 
+		    <td> DISPONIBLE</td>
+		    
+                  </tr>
+                        
+                              
+	            <td> VOLKSWAGEN</td> 
+	            <td> GOL</td> 
+		    <td> 2016</td> 
+                    <td> azul</td> 
+	            <td> 200000</td> 
+	            <td> 50000</td> 
+		    <td> DISPONIBLE</td>
+		    
+                  </tr>
+                        
+                              
+	            <td> VOLKSWAGEN</td> 
+	            <td> UP</td> 
+		    <td> 2016</td> 
+                    <td> verde</td> 
+	            <td> 156000</td> 
+	            <td> 19000</td> 
+		    <td> DISPONIBLE</td>
+		    
+                  </tr>
+                        
+                              
+	            <td> VOLKSWAGEN</td> 
+	            <td> UP</td> 
+		    <td> 2019</td> 
+                    <td> amarillo</td> 
+	            <td> 230000</td> 
+	            <td> 50000</td> 
+		    <td> DISPONIBLE</td>
+		    
+                  </tr>
+                        
+                          
+            </tbody>
+          </table> 
+    
+</body>
+</html>
